@@ -38,7 +38,7 @@ Credit card fraud is a broad problem that can be tackled from many angles — id
 
 ### Press Release Headline
 
-[Catching Fraud Before It Happens: Can an Algorithm Protect Your Credit Card?](press-release.md)
+[Catching Fraud Before It Happens: Can an Algorithm Protect Your Credit Card?](https://github.com/ameliavasiliu/Project-2-Document-Model/blob/main/Press_Release.md)
 
 ---
 
