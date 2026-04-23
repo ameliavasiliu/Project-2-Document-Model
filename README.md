@@ -1,12 +1,5 @@
 # DS 4320 Project 2: Credit Card Fraud Detection
 
-**Name:** Amelia Vasiliu
-**NetID:** ega9cw  
-**DOI:** *[Add your Zenodo DOI here after creating it]*  
-**Press Release:** [press-release.md](press-release.md)  
-**Pipeline:** [Code/pipeline.ipynb](Code/pipeline.ipynb)  
-**License:** MIT — [LICENSE](LICENSE)
-
 ---
 
 ## Executive Summary
@@ -14,6 +7,13 @@
 This repository contains a full data science pipeline for detecting credit card fraud using the document model. The project draws on two publicly available datasets — the IEEE-CIS Fraud Detection dataset (590,540 real e-commerce transactions) and PaySim (200,000 synthetic mobile money transactions) — merged and stored in a MongoDB Atlas cluster as a single `transactions` collection. The repository includes all code for data ingestion, database creation, exploratory analysis, and a machine learning classification pipeline, along with complete metadata, a data dictionary, and a press release explaining the project's findings and motivation.
 
 ---
+
+**Name:** Amelia Vasiliu
+**NetID:** ega9cw  
+**DOI:** *[Add your Zenodo DOI here after creating it]*  
+**Press Release:** [press-release.md](press-release.md)  
+**Pipeline:** [Code/pipeline.ipynb](Code/pipeline.ipynb)  
+**License:** MIT — [LICENSE](LICENSE)
 
 ## Problem Definition
 
