@@ -9,7 +9,6 @@ This repository contains a full data science pipeline for detecting credit card 
 ---
 
 **Name:** Amelia Vasiliu
-
 **NetID:** ega9cw  
 **DOI:** *[Add your Zenodo DOI here after creating it]*  
 **Press Release:** [press-release.md](press-release.md)  
