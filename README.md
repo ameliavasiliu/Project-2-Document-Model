@@ -93,7 +93,7 @@ Both datasets were inserted into a MongoDB Atlas cluster in a single `transactio
 
 | File | Description | Link |
 |------|-------------|------|
-| `ingestion.ipynb` | Mounts Google Drive, unzips raw data files, loads IEEE-CIS and PaySim CSVs with memory optimization, merges IEEE-CIS transaction and identity files on `TransactionID`, and inserts all documents into MongoDB Atlas in batches of 1000 using `bulk_write` | https://github.com/ameliavasiliu/Project-2/blob/main/Code/DataBase_Creation.ipynb |
+| `ingestion.ipynb` | Mounts Google Drive, unzips raw data files, loads IEEE-CIS and PaySim CSVs with memory optimization, merges IEEE-CIS transaction and identity files on `TransactionID`, and inserts all documents into MongoDB Atlas in batches of 1000 using `bulk_write` | https://github.com/ameliavasiliu/Project-2-Document-Model/blob/main/Code/DataBase_Creation.ipynb |
 
 ### Bias Identification
 
